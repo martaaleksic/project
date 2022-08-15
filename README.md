@@ -33,6 +33,8 @@
 
 12. Statistical exploratory data analysis
 
+13. Visualization, customization data along with its libraries, graphs, charts, histogram and more..
+
 
 # Python libraries
 
