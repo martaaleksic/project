@@ -35,20 +35,24 @@
 
 ### Matplotlib.pyplot as plt
 
-Matplotlib is a cross-platform, data visualization and graphical plotting library for Python and its numerical extension NumPy.
+Matplotlib is a cross-platform, data visualization and graphical plotting library for **Python** and its numerical extension NumPy.
 
 ### Pandas as pd
 
-Pandas is an open source data analysis library built on top of the Python programming language. The import pandas portion of the code tells Python to bring the pandas data analysis library into your current environment.
+Pandas is an open source data analysis library built on top of the **Python** programming language. The import pandas portion of the code tells **Python** to bring the pandas data analysis library into your current environment.
 
 ### NupPy as np
 
-It adds powerful data structures to Python that guarantee efficient calculations with arrays and matrices and it supplies an enormous library of high-level mathematical functions that operate on these arrays and matrices.
+It adds powerful data structures to **Python** that guarantee efficient calculations with arrays and matrices and it supplies an enormous library of high-level mathematical functions that operate on these arrays and matrices.
 
 ### Seaborn as sns
 
-Seaborn is **an amazing data visualization library for statistical graphics plotting in Python**. It provides beautiful default styles and colour palettes to make statistical plots more attractive.
+Seaborn is an amazing data visualization library for statistical graphics plotting in **Python**. It provides beautiful default styles and colour palettes to make statistical plots more attractive.
 
 ### Teamcolor
 
-To change the text color, we use a ***Python*** library called ***termcolor***
+To change the text color, we use a **Python** library called termcolor.
+
+### Plotly
+
+Plotly's **Python** graphing library makes interactive, publication-quality graphs. Examples of how to make line plots, scatter plots, area charts, bar charts...
