@@ -13,7 +13,7 @@
 
 2. Importing Libraries
 
-3. Loading Dataset & Exploratory Data Analysis
+3. Loading Dataset 
 
 4. Correlation Strength of the relationship between two variables
 
