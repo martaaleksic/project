@@ -9,27 +9,30 @@
 
 ## In this projects:
 
-1. Importing Libraries
+1. Using requests to download a file
 
-2. Loading Dataset & Exploratory Data Analysis
+2. Importing Libraries
 
-3. Correlation Strength of the relationship between two variables
+3. Loading Dataset & Exploratory Data Analysis
 
-4. Missing Values Distribution:
+4. Correlation Strength of the relationship between two variables
 
-5. Calculate the % of missing data from each column
+5. Missing Values Distribution
 
-6. Grouping data and finding correlation
+6. Calculate the % of missing data from each column
 
-7. Selecting columns
+7. Grouping data and finding correlation
 
-8. Logic, Control Flow and Filtering
+8. Selecting columns
 
-9. Quantitative comparisons and statistical visualizations
+9. Logic, Control Flow and Filtering
 
-10. Data Manipulation with Python
+10. Quantitative comparisons and statistical visualizations
 
-11. Statistical exploratory data analysis
+11. Data Manipulation with Python
+
+12. Statistical exploratory data analysis
+
 
 # Python libraries
 
