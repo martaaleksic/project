@@ -56,3 +56,9 @@ To change the text color, we use a **Python** library called termcolor.
 ### Plotly
 
 Plotly's **Python** graphing library makes interactive, publication-quality graphs. Examples of how to make line plots, scatter plots, area charts, bar charts...
+
+### Requests
+
+The requests module allows you to send HTTP requests using **Python**.
+
+The HTTP request returns a Response Object with all the response data (content, encoding, status, etc)..
