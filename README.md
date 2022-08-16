@@ -1,12 +1,6 @@
 
 # **DATA ENGINEER**
 
-**In this README, I will explain what I used for my projects:**
-
-1. Tools: Like python
-2. Statistics: Like mean, median or standard deviation.
-3. Data Visualization: Title is actually explanatory. We will visualize the data with **python** like matplot and seaborn libraries. I have discussed Matplotlib object hierarchy, various plot types with Matplotlib and customization techniques associated with Matplotlib.
-
 ## In this projects:
 
 1. Importing Libraries
