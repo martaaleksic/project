@@ -52,7 +52,7 @@ Seaborn is an amazing data visualization library for statistical graphics plotti
 
 To change the text color, we use a **Python** library called termcolor.
 
-### Plotly
+### Plotly as px 
 
 Plotly's **Python** graphing library makes interactive, publication-quality graphs. Examples of how to make line plots, scatter plots, area charts, bar charts...
 
