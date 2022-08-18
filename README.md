@@ -1,6 +1,3 @@
-
-# **DATA ENGINEER**
-
 ## In this projects:
 
 1. Using requests to download a file
@@ -32,19 +29,19 @@
 
 # Python libraries
 
-### Matplotlib.pyplot as plt
+### Matplotlib
 
 Matplotlib is a cross-platform, data visualization and graphical plotting library for **Python** and its numerical extension NumPy.
 
-### Pandas as pd
+### Pandas 
 
 Pandas is an open source data analysis library built on top of the **Python** programming language. The import pandas portion of the code tells **Python** to bring the pandas data analysis library into your current environment.
 
-### NupPy as np
+### NupPy
 
 It adds powerful data structures to **Python** that guarantee efficient calculations with arrays and matrices and it supplies an enormous library of high-level mathematical functions that operate on these arrays and matrices.
 
-### Seaborn as sns
+### Seaborn
 
 Seaborn is an amazing data visualization library for statistical graphics plotting in **Python**. It provides beautiful default styles and colour palettes to make statistical plots more attractive.
 
@@ -52,7 +49,7 @@ Seaborn is an amazing data visualization library for statistical graphics plotti
 
 To change the text color, we use a **Python** library called termcolor.
 
-### Plotly as px 
+### Plotly
 
 Plotly's **Python** graphing library makes interactive, publication-quality graphs. Examples of how to make line plots, scatter plots, area charts, bar charts...
 
