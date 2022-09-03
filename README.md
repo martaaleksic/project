@@ -1,11 +1,5 @@
-## To better understand the data:
+## About Dataset
 
-# Game - Title of video games
-# Year - Year of video games released
-# Genre - Genre of video games
-# Publisher - Publisher of video games
-# North America - Video game sales in North America (in millions)
-# Europe - Video game sales in Europe (in millions)
-# Japan - Video game sales in Japan (in millions)
-# Rest of World - Video game sales in other countries (in millions)
-# Global - Total of worldwide sales
+A statistical research on the effects of mental health on STUDENTS CGPA dataset
+
+This Data set was collected by a survey conducted by Google forms from University student in order to examine their current academic situation and mental health.
